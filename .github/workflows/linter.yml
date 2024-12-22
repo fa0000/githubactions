@@ -1,4 +1,4 @@
-hname: Yaml Lint
+name: Yaml Lint
 on: [push]  # yamllint disable-line rule:truthy
 jobs:
   lintAllTheThings:
